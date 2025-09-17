@@ -25,5 +25,3 @@ This project is a **frontend-only prototype** that helps businesses manage custo
 - **React Router** – Navigation  
 
 ---
-
-##  Project Structure  
